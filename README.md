@@ -8,5 +8,10 @@ this is a test readmethis is a test readmethis is a test readme
 
 
 - bullet1 wrap
-- bullet2 wrap[
+
+1) drink more water
+2) go to bed earlier
+
+3) 
+- bullet2 wrap
 - bullet3 wrap
