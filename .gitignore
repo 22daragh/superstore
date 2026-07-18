@@ -1,0 +1,28 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# environment variable (api key)
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables (often contains API keys)
+.env
+
+# VS Code (optional - if you don't want to share your settings)
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
